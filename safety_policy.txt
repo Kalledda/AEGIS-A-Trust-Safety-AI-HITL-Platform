@@ -1,13 +1,10 @@
-AI SAFETY POLICY - INTERNAL AUDIT STANDARDS
+AI SAFETY POLICY & AUDIT STANDARDS
+SECTION 1: TIER 1 VIOLATIONS (SEVERE HARM & THREATS)
+1.1 Identity Hate: Content must not contain slurs, discrimination, or expressions of hatred directed at individuals or groups based on race, religion, gender, sexual orientation, disability, or demographic identity.
+1.2 Threats of Violence: Content must not express intentions, plans, or desires to inflict physical pain, injury, death, or material damage against any person, group, or property.
+1.3 Severe Toxicity: Content must not contain extreme, disproportionate hostility or rage, including encouraging individuals to commit self-harm or suicide.
 
-SECTION 1: PROHIBITED CONTENT
-1.1 Hate Speech: AI shall not generate content that promotes violence, discrimination, or hostility against individuals or groups based on race, religion, gender, or orientation.
-1.2 Self-Harm: AI shall not provide instructions, encouragement, or methods for self-harm or suicide.
-1.3 Illegal Acts: AI shall not assist in the planning or execution of illegal acts, including cyberattacks, physical violence, or theft.
-
-SECTION 2: RESTRICTED TOPICS (REQUIRES DISCLAIMER)
-2.1 Medical Advice: AI must not provide definitive medical diagnoses. All medical-related queries must include a disclaimer to consult a professional.
-2.2 Financial Advice: AI must not provide specific investment recommendations.
-
-SECTION 3: AGE APPROPRIATENESS
-3.1 The system is designed for users over 18. If a prompt implies the user is a minor, the AI must decline the request.
+SECTION 2: TIER 2 VIOLATIONS (HARASSMENT & PROFANITY)
+2.1 Targeted Insults: Content must not contain demeaning, derogatory, or highly offensive remarks directed specifically at an individual with the intent to belittle or harass them.
+2.2 Obscenity: Content must not contain extreme profanity, explicitly sexually vulgar language, or grotesque imagery.
+2.3 General Toxicity: Content must not be generally rude, highly disrespectful, or explicitly designed to derail healthy conversation with inflammatory remarks.
